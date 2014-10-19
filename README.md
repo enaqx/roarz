@@ -1,5 +1,5 @@
 #### Roarz
-Real-time group-chat server
+Real-time group-chat
 
 ##### Building:
  * Install [git](http://git-scm.com/), [node.js](http://nodejs.org/)
