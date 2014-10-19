@@ -1,0 +1,32 @@
+{
+  "name": "roarz",
+  "version": "0.0.1",
+  "description": "Real-time groupchat app",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enaqx/roarz"
+  },
+  "keywords": [
+    "chat",
+    "sharing",
+    "group",
+    "app",
+    "mobile"
+  ],
+  "author": "Nick Rivera <enaqxx@gmail.com> (http://enaqx.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enaqx/roarz/issues"
+  },
+  "homepage": "https://github.com/enaqx/roarz",
+  "dependencies": {
+    "express": "^4.9.8",
+    "mocha": "^1.21.5",
+    "socket.io": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

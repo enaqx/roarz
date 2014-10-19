@@ -1,0 +1,34 @@
+{
+  "name": "roarz",
+  "version": "0.0.1",
+  "description": "Real-time groupchat app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enaqx/roarz"
+  },
+  "keywords": [
+    "chat",
+    "sharing",
+    "group",
+    "app",
+    "mobile"
+  ],
+  "author": "Nick Rivera <enaqxx@gmail.com> (http://enaqx.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enaqx/roarz/issues"
+  },
+  "homepage": "https://github.com/enaqx/roarz",
+  "dependencies": {
+    "gulp": "^3.5.6",
+    "gulp-sass": "^0.7.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-minify-css": "^0.3.0",
+    "gulp-rename": "^1.2.0"
+  },
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "gulp-util": "^2.2.14",
+    "shelljs": "^0.3.0"
+  }
+}
